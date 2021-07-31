@@ -10,7 +10,7 @@ weight: 3
 {{% /h2 %}}
 
 {{% image %}}
-![David L. Mobley](/OMSF/images/davidlmobley.jpg)
+![David L. Mobley](/images/davidlmobley.jpg)
 **David L. Mobley**
 *President*
 [Twitter](https://twitter.com/davidlmobley) | [Linkedin](https://www.linkedin.com/in/david-mobley-1b09724)
@@ -21,7 +21,7 @@ Prof. David Mobley currently holds a joint appointment in the Pharmaceutical Sci
 
 
 {{% image %}}
-![Michael K. Gilson](/OMSF/images/michaelkgilson.jpg)
+![Michael K. Gilson](/images/michaelkgilson.jpg)
 **Michael K. Gilson**
 [Twitter](http://twitter.com/michaelkgilson) | [LinkedIn](http://linkedin.com/in/mkgilson)
 _University of California, San Diego_
@@ -31,7 +31,7 @@ Mike Gilson, MD, PhD, is Professor and Chair in Computer-Aided Drug Design at th
 
 
 {{% image %}}
-![Karmen Condic-Jurkic](/OMSF/images/karmen.jpg)
+![Karmen Condic-Jurkic](/images/karmen.jpg)
 **Karmen Condic-Jurkic**
 [Twitter](http://twitter.com/karmecon) | [LinkedIn](http://linkedin.com/in/karmen-condic-jurkic-805073b)
 _Open Molecular Software Foundation_

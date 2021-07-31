@@ -14,7 +14,7 @@ As the book title suggests, there are [six models of fiscal sponsorship](https:/
 The OMSF will initially focus on the **Model A** , also known as Direct Project or Comprehensive Model. In this model, the project becomes a program of the fiscal sponsor and the sponsor (OMSF) takes comprehensive responsibility for the project. The fiscal sponsor assumes liability for all project assets and activities, including its employees, contractors and volunteers. This is one of the least financially independent models, as the sponsor has ultimate control, but projects may have a substantial level of autonomy. Projects following this model within OMSF are called [Hosted Projects](hosted-projects).
 
 {{% img-full %}}
-![image alt text](/OMSF/images/services2.jpg)
+![image alt text](/images/services2.jpg)
 {{% /img-full %}}
 
 We offer the following services to Hosted Projects:

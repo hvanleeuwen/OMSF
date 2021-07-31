@@ -6,7 +6,7 @@ name: "support"
 weight: 2
 ---
 
-![image alt text](/OMSF/images/OMF-img4.jpg)
+![image alt text](/images/OMF-img4.jpg)
 
 
 There are several ways to support the OMSF and Hosted Projects:
