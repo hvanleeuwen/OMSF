@@ -9,7 +9,7 @@ weight: 1
 ## What we do?
 {{% /h2 %}}
 
-![image alt text](/OMSF/images/OMF-img1.jpg)
+![image alt text](images/OMF-img1.jpg)
 
 Our mission is to advance molecular sciences by building high quality, open source software and sustainable communities for research software development. 
 We believe that open source software and open science provide the best path to accelerated discoveries and innovation. However, openness and research software development come with their own challenges. It is our mission to make using and building open research infrastructure the best and easiest choice for every molecular scientist.
@@ -61,7 +61,7 @@ Visit our [Services page](#services) for more information about how the OMSF can
 
 The OMSF is a nonprofit organization currently seeking 501(c)(3) tax exempt status. The organization will pursue its mission by focusing on two key areas:
 
-![image alt text](/OMSF/images/OMF-img2.jpg)
+![image alt text](images/OMF-img2.jpg)
 
 #### 1.	Fiscal sponsorship
 The OMSF seeks in large part to provide a home and base of operations for open source software projects through [fiscal sponsorship](https://en.wikipedia.org/wiki/Fiscal_sponsorship). We recognize the need to simplify administration and project management for distributed teams and research software development. It is important to emphasize that each Hosted Project has its own governance structure and all important decisions are made accordingly, including how to spend funds. The role of the OMSF is to follow the instructions received from the governing body of the Hosted Project and in accordance with our mission and charitable purpose. Read more about our fiscal sponsorship [services](#services) and how to become a [Hosted Project](#hostedproject).  
@@ -75,7 +75,7 @@ This organization will allow us to combine different funding sources -- membersh
 
 The OMSF operates as a lean organization with the minimal number of employees to be effective, while keeping our costs down. We will make public all relevant organization documents and regularly update our [Documentation page](#documentation) with annual reports.
 
-![image alt text](/OMSF/images/OMF-img3.jpg)
+![image alt text](images/OMF-img3.jpg)
 
 {{% h3-green %}}
 The OMSF Board of Directors.
