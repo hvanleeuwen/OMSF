@@ -1,4 +1,4 @@
-baseURL = "http://idee2.nl"
+baseURL = "https://github.com/hvanleeuwen/OMSF-website"
 languageCode = "en-us"
 title = "OMSF"
 theme = "hugo-kiera-master"

@@ -13,23 +13,23 @@ baseURL = "https://github.com/hvanleeuwen/OMSF"
       [[menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about/mission"
+        url = "about/mission"
         weight = 10
 
       [[menu.main]]
         identifier = "services"
         name = "Services"
-        url = "/services/fiscalsponsorship"
+        url = "services/fiscalsponsorship"
         weight = 20
 
         [[menu.main]]
           identifier = "hostedprojects"
           name = "Hosted Projects"
-          url = "/hostedprojects/hostyourproject"
+          url = "hostedprojects/hostyourproject"
           weight = 30
 
       [[menu.main]]
         identifier = "support"
         name = "Support"
-        url = "/support/support"
+        url = "support/support"
         weight = 40
